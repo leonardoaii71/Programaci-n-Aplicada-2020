@@ -12,6 +12,5 @@ public class MoonLayerController : MonoBehaviour
     {
         currentPosition.x = -scrollSpeedX * Time.deltaTime;
         transform.Translate(currentPosition); 
-        
     }
 }
