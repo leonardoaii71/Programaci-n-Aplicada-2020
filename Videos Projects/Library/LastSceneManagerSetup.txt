@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Animaciones.unity
+- path: Assets/Scenes/Colisiones.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
